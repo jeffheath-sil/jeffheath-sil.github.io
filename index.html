@@ -19,15 +19,28 @@ h4 {
   color: green;
 }
 
+table {
+  border-collapse: collapse;
+}
+td,th {
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  border-top: 1px solid black;
+  margin-top: 25px;
+  background-color: #dddddd;
+}
+
+tr:last-child {
+  border-bottom: 1px solid black;
+  margin-top: 25px;
+}
+
 .program {
   font-weight: bold;
   color:green;
-  border-top: 1px solid black;
-  margin-top: 5px;
-}
-.programdate {
-  border-top: 1px solid black;
-  margin-top: 5px;
+  
 }
 
 .sidenav {
@@ -38,7 +51,7 @@ h4 {
   top: 0;
   left: 0;
   background-color: darkgreen;
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
   padding-top: 20px;
 }
 
@@ -51,7 +64,7 @@ h4 {
 }
 
 .sidenav a:hover {
-  color: #f1f100;
+  color: #d1ffdd; /* #f1f100;*/
 }
 
 .main {
@@ -66,14 +79,16 @@ h4 {
 }-->
 </style> </head>
   <body id="home" dir="ltr" vlink="#800000" link="#000080" lang="en-US">
-    <div class="sidenav"> <a href="#home">Home</a> <a href="#general">General</a>
-      <a href="#education">Education</a> <a href="#experience">Experience</a> <a
-
-        href="#publications">Publications</a> <a href="#skills">Skills</a> </div>
+    <div class="sidenav">
+      <a href="#top">Home</a>
+      <a href="#general">General</a>
+      <a href="#education">Education</a>
+      <a href="#experience">Experience</a>
+      <a href="#publications">Publications</a>
+      <a href="#skills">Skills</a> </div>
     <div class="main">
       <h1>Jeff Heath</h1>
-      <h4>Language Technology Consultant for <a href="https://www.sil.org">SIL
-          International</a></h4>
+      <h4>Language Technology Consultant for <a href="https://www.sil.org">SIL International</a></h4>
       <h2 id="general">General</h2>
       <p>General about me...</p>
       <p>Some content..</p>
@@ -83,42 +98,47 @@ h4 {
       <p>Some content..</p>
       <h2 id="education">Education</h2>
       <table>
-        <tbody style="border:1px solid red;">
-          <tr>
-            <td class="program">Master of Science in Computational Linguistics</td>
-            <td class="programdate">June 2016</td>
-          </tr>
-          <tr>
-            <td colspan="2">University of Washington, Seattle, WA 98195 (GPA 4.0)</td>
-          </tr>
-          <tr>
-            <td class="program">Linguistics Course Set (Phonetics, Phonology, Grammar, Analysis)</td>
-            <td class="programdate">May 1997</td>
-          </tr>
-          <tr>
-            <td colspan="2">SIL International, Dallas, TX 75236 (GPA 4.0) </td>
-          </tr>
-          <tr>
-            <td class="program">Master of Engineering in Computer Engineering</td>
-            <td class="programdate">May 1988</td>
-          </tr>
-          <tr>
-            <td colspan="2">Cornell University, Ithaca, NY 14853 (GPA 4.1/4.0, A+ is 4.3) </td>
-          </tr>
-          <tr>
-            <td class="program">Bachelor of Science in Electrical Engineering with Distinction</td>
-            <td class="programdate">May 1987</td>
-          </tr>
-          <tr>
-            <td colspan="2">Cornell University, Ithaca, NY 14853 (GPA 4.0 in Major, 3.9
-              Overall, Dean’s List) </td>
-          </tr>
-        </tbody>
+	  <tr>
+	    <td class="program">Master of Science in Computational Linguistics</td>
+	    <td>June 2016</td>
+	  </tr>
+	  <tr>
+	    <td colspan="2">University of Washington, Seattle, WA 98195 (GPA
+	      4.0)</td>
+	  </tr>
+	  <tr>
+	    <td class="program">Linguistics Course Set (Phonetics, Phonology,
+	      Grammar, Analysis)</td>
+	    <td>May 1997</td>
+	  </tr>
+	  <tr>
+	    <td colspan="2">SIL International, Dallas, TX 75236 (GPA 4.0) </td>
+	  </tr>
+	  <tr>
+	    <td class="program">Master of Engineering in Computer Engineering</td>
+	    <td>May 1988</td>
+	  </tr>
+	  <tr>
+	    <td colspan="2">Cornell University, Ithaca, NY 14853 (GPA 4.1/4.0,
+	      A+ is 4.3) </td>
+	  </tr>
+	  <tr>
+	    <td class="program">Bachelor of Science in Electrical Engineering
+	      with Distinction</td>
+	    <td>May 1987</td>
+	  </tr>
+	  <tr>
+	    <td colspan="2">Cornell University, Ithaca, NY 14853 (GPA 4.0 in
+	      Major, 3.9 Overall, Dean’s List) </td>
+	  </tr>
       </table>
+      <h2 id="experience">Experience</h2>
       <p>Some content..</p>
       <p>Some content..</p>
+      <h2 id="publications">Publications</h2>
       <p>Some content..</p>
       <p>Some content..</p>
+      <h2 id="skills">Skills</h2>
       <p>Some content..</p>
       <p>Some content..</p>
     </div>
