@@ -1,13 +1,33 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title>Portfolio of Jeffrey C. Heath</title>
-
-<style>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Portfolio of Jeff Heath</title>
+    <style>
 body {
   font-family: "Lato", sans-serif;
+  background-color: #E8E8E8;
+}
+
+h1 {
+  color: green;
+}
+h2 {
+  color: green;
+}
+h4 {
+  color: green;
+}
+
+.program {
+  font-weight: bold;
+  color:green;
+  border-top: 1px solid black;
+  margin-top: 5px;
+}
+.programdate {
+  border-top: 1px solid black;
+  margin-top: 5px;
 }
 
 .sidenav {
@@ -17,106 +37,90 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
-  overflow-x: hidden;
+  background-color: darkgreen;
+  /* overflow-x: hidden; */
   padding-top: 20px;
 }
 
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
-  color: #818181;
+  font-size: 22px;
+  color: #E8E8E8;
   display: block;
 }
 
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #f1f100;
 }
 
 .main {
   margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
+  /* font-size: 28px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
 
-@media screen and (max-height: 450px) {
+<!-- @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-}
-</style>
-</head>
+}-->
+</style> </head>
+  <body id="home" dir="ltr" vlink="#800000" link="#000080" lang="en-US">
+    <div class="sidenav"> <a href="#home">Home</a> <a href="#general">General</a>
+      <a href="#education">Education</a> <a href="#experience">Experience</a> <a
 
-<body lang="en-US" link="#000080" vlink="#800000" dir="ltr">
-
-<div class="sidenav">
-  <a href="#home">Home</a>
-  <a href="#general">General</a>
-  <a href="#education">Education</a>
-  <a href="#experience">Experience</a>
-  <a href="#publications">Publications</a>
-  <a href="#skills">Skills</a>
-</div>
-
-<div class="main">
-  <h1 id="home">Jeff Heath</h1>
-  <h4>Language Technology Consultant for <a href="https://www.sil.org">SIL International</a></h4>
-
-  <h2 id="general">General</h2>
-  <p>General about me...</p>
-  <p>Some content..</p>
-  <p>Some content..</p>
-  <p>Some content..</p>
-  <p>Some content..</p>
-  <p>Some content..</p>
-  <h2 id="education">Education</h2>
-<table>
-<tr>
-    <td>Master of Science in Computational Linguistics</td>
-    <td>June 2016</td>
-</tr>
-<tr>
-    <td>University of Washington, Seattle, WA  98195  (GPA 4.0)</td>
-</tr>
-
-	
-
-<tr>
-    <td>Linguistics Course Set (Phonetics, Phonology, Grammar, Analysis)</td>
-    <td>May 1997</td>
-</tr>
-<tr>
-    <td>SIL International, Dallas, TX  75236  (GPA 4.0)
-</td>
-</tr>
-<tr>
-    <td>Master of Engineering in Computer Engineering</td>
-    <td>May 1988</td>
-</tr>
-<tr>
-    <td>Cornell University, Ithaca, NY  14853  (GPA 4.1/4.0, A+ is 4.3)
-</td>
-</tr>
-<tr>
-    <td>Bachelor of Science in Electrical Engineering with Distinction</td>
-    <td>May 1987</td>
-</tr>
-<tr>
-    <td>Cornell University, Ithaca, NY  14853  (GPA 4.0 in Major, 3.9 Overall, Dean’s List)
-</td>
-</tr>
-</table>
-
-
-  <p>Some content..</p>
-  <p>Some content..</p>
-  <p>Some content..</p>
-  <p>Some content..</p>
-  <p>Some content..</p>
-  <p>Some content..</p>
-</div>
-
-
-
-</body>
+        href="#publications">Publications</a> <a href="#skills">Skills</a> </div>
+    <div class="main">
+      <h1>Jeff Heath</h1>
+      <h4>Language Technology Consultant for <a href="https://www.sil.org">SIL
+          International</a></h4>
+      <h2 id="general">General</h2>
+      <p>General about me...</p>
+      <p>Some content..</p>
+      <p>Some content..</p>
+      <p>Some content..</p>
+      <p>Some content..</p>
+      <p>Some content..</p>
+      <h2 id="education">Education</h2>
+      <table>
+        <tbody style="border:1px solid red;">
+          <tr>
+            <td class="program">Master of Science in Computational Linguistics</td>
+            <td class="programdate">June 2016</td>
+          </tr>
+          <tr>
+            <td colspan="2">University of Washington, Seattle, WA 98195 (GPA 4.0)</td>
+          </tr>
+          <tr>
+            <td class="program">Linguistics Course Set (Phonetics, Phonology, Grammar, Analysis)</td>
+            <td class="programdate">May 1997</td>
+          </tr>
+          <tr>
+            <td colspan="2">SIL International, Dallas, TX 75236 (GPA 4.0) </td>
+          </tr>
+          <tr>
+            <td class="program">Master of Engineering in Computer Engineering</td>
+            <td class="programdate">May 1988</td>
+          </tr>
+          <tr>
+            <td colspan="2">Cornell University, Ithaca, NY 14853 (GPA 4.1/4.0, A+ is 4.3) </td>
+          </tr>
+          <tr>
+            <td class="program">Bachelor of Science in Electrical Engineering with Distinction</td>
+            <td class="programdate">May 1987</td>
+          </tr>
+          <tr>
+            <td colspan="2">Cornell University, Ithaca, NY 14853 (GPA 4.0 in Major, 3.9
+              Overall, Dean’s List) </td>
+          </tr>
+        </tbody>
+      </table>
+      <p>Some content..</p>
+      <p>Some content..</p>
+      <p>Some content..</p>
+      <p>Some content..</p>
+      <p>Some content..</p>
+      <p>Some content..</p>
+    </div>
+  </body>
 </html>
