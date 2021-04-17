@@ -1,0 +1,66 @@
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #E8E8E8;
+}
+
+h1, h2, h3, h4 {
+  color: green;
+}
+
+table {
+  border-collapse: collapse;
+}
+td,th {
+  padding: 1em;
+}
+th {
+  font-weight: bold;
+  color:green;
+  text-align: left;
+}
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+tr:nth-child(even) td {
+  border-bottom: 1px solid black;
+  padding-bottom: 1.5em;
+}
+tr:first-child {
+  border-top: 1px solid black;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: darkgreen;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 22px;
+  color: #E8E8E8;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: greenyellow;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  /* font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+<!-- @media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}-->
