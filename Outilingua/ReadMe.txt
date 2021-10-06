@@ -1,0 +1,1 @@
+This is just a convenient location for storing files needed on the Outilingua web site, but that aren't handled well by that site. Specifically, the site sometimes "sanitizes" XML files when it downloads them from the site.
