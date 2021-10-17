@@ -161,7 +161,7 @@
     <Transliteration>אֱלֹהִים + אַבְרָהָם ++ יִצְחָק</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>le Dieu d'Abraham et d'Isaac et de Jacob</Gloss>
+    <Gloss>le Dieu d’Abraham et d’Isaac et de Jacob</Gloss>
     <References>
       <Verse>00200300600</Verse>
       <Verse>00200301500</Verse>
@@ -645,7 +645,7 @@
     <Transliteration>אֲנִי + יהוה + דבר</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>moi le SEIGNEUR j'ai parlé</Gloss>
+    <Gloss>moi le SEIGNEUR j’ai parlé</Gloss>
     <References>
       <Verse>00401403500</Verse>
       <Verse>02600501300</Verse>
@@ -668,7 +668,7 @@
     <Transliteration>אֲנִי + יהוה + דבר + וְ + עשׂה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>C’est moi le SEIGNEUR qui ai parlé et qui agirai</Gloss>
+    <Gloss>c’est moi le SEIGNEUR qui ai parlé et qui agirai</Gloss>
     <References>
       <Verse>02601702400</Verse>
       <Verse>02602201400</Verse>
@@ -680,7 +680,7 @@
     <Transliteration>אֲנִי + יהוה + קדשׁ</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>c'est moi, le SEIGNEUR , qui vous sanctifie</Gloss>
+    <Gloss>c’est moi le SEIGNEUR qui vous sanctifie</Gloss>
     <References>
       <Verse>00203101300</Verse>
       <Verse>00302000800</Verse>
@@ -714,7 +714,7 @@
     <Transliteration>אֲרוֹן + בְּרִית + יהוה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>le coffre de l'alliance du SEIGNEUR</Gloss>
+    <Gloss>le coffre de l’alliance du SEIGNEUR</Gloss>
     <References>
       <Verse>00401003300</Verse>
       <Verse>00401404400</Verse>
@@ -1259,7 +1259,7 @@
     <Transliteration>אֶרֶץ + אֲשֶׁר + שׁבע + לְ</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>le pays que j'ai promis par serment à</Gloss>
+    <Gloss>le pays que j’ai promis par serment à</Gloss>
     <References>
       <Verse>00105002400</Verse>
       <Verse>00203300100</Verse>
@@ -1299,7 +1299,7 @@
     <Transliteration>אֶרֶץ + יִשְׂרָאֵל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>le pays d'Israël</Gloss>
+    <Gloss>le pays d’Israël</Gloss>
     <References>
       <Verse>00901301900</Verse>
       <Verse>01200500200</Verse>
@@ -1630,7 +1630,7 @@
     <Transliteration>אַיִן + כְּמוֹ</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>nul n'est semblable à</Gloss>
+    <Gloss>nul n’est semblable à</Gloss>
     <References>
       <Verse>00200901400</Verse>
       <Verse>00901002400</Verse>
@@ -1662,7 +1662,7 @@
     <Transliteration>אַיִן + עבר</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>personne n'y passera</Gloss>
+    <Gloss>personne n’y passera</Gloss>
     <References>
       <Verse>02303401000</Verse>
       <Verse>02306001500</Verse>
@@ -2456,7 +2456,7 @@
     <Transliteration>אמר + נָא + יִשְׂרָאֵל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>qu'Israël le redise !</Gloss>
+    <Gloss>qu’Israël le redise !</Gloss>
     <References>
       <Verse>01911800200</Verse>
       <Verse>01912400100</Verse>
@@ -2483,7 +2483,7 @@
     <Transliteration>בְּ + אָדוֹן</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>Pardon Seigneur, Je t’en pris Seigneur</Gloss>
+    <Gloss>pardon Seigneur, je t’en pris Seigneur</Gloss>
     <References>
       <Verse>00104302000</Verse>
       <Verse>00104401800</Verse>
@@ -3302,7 +3302,7 @@
     <Transliteration>בֵּן + אַהֲרֹן + הַ + כֹּהֵן</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>1. les prêtres descendants d'Aaron, 2. les fils du prêtre Aaron</Gloss>
+    <Gloss>1. les prêtres descendants d’Aaron, 2. les fils du prêtre Aaron</Gloss>
     <References>
       <Verse>00203802100</Verse>
       <Verse>00300100500</Verse>
@@ -3633,7 +3633,7 @@
     <Transliteration>בֵּן + יִשְׂרָאֵל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>1. les Israélites, 2. les fils d'Israël (Jacob), 3. les gens du royaume du nord (Israël)</Gloss>
+    <Gloss>1. les Israélites, 2. les fils d’Israël (Jacob), 3. les gens du royaume du nord (Israël)</Gloss>
     <References>
       <Verse>00103203300</Verse>
       <Verse>00103603100</Verse>
@@ -5667,7 +5667,7 @@
     <Transliteration>דָּבָר + הַ + בְּרִית</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>les paroles de l'alliance</Gloss>
+    <Gloss>les paroles de l’alliance</Gloss>
     <References>
       <Verse>00203402800</Verse>
       <Verse>00502806900</Verse>
@@ -5757,7 +5757,7 @@
     <Transliteration>דָּבָר + הַ + מֶלֶךְ + וְ + דָּת</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>l'ordre et l’édit du roi</Gloss>
+    <Gloss>l’ordre et l’édit du roi</Gloss>
     <References>
       <Verse>01700200800</Verse>
       <Verse>01700400300</Verse>
@@ -5870,7 +5870,7 @@
     <Transliteration>דָּם + עַל + הַ + מִזְבֵּחַ</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>(aspergez) du sang le pourtour de l'autel, (versez) du sang sur les côtés de l’autel</Gloss>
+    <Gloss>(aspergez) du sang le pourtour de l’autel, (versez) du sang sur les côtés de l’autel</Gloss>
     <References>
       <Verse>00202902000</Verse>
       <Verse>00300100500</Verse>
@@ -6344,7 +6344,7 @@
     <Transliteration>הַ + יָשָׁר + בְּ + עַיִן</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>ce qui est bon dans ses yeux, ce qu'il pense bon</Gloss>
+    <Gloss>ce qui est bon dans ses yeux, ce qu’il pense bon</Gloss>
     <References>
       <Verse>00201502600</Verse>
       <Verse>00501200800</Verse>
@@ -7363,7 +7363,7 @@
     <Transliteration>זָקֵן ++ יִשְׂרָאֵל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>les anciens d'Israël</Gloss>
+    <Gloss>les anciens d’Israël</Gloss>
     <References>
       <Verse>00200301600</Verse>
       <Verse>00200301800</Verse>
@@ -8067,7 +8067,7 @@
     <Transliteration>חֻקָּה + לֹא + הלך</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>ils n’obéissent pas mes préceptes, ils n'ont pas marché selon mes prescriptions</Gloss>
+    <Gloss>ils n’obéissent pas mes préceptes, ils n’ont pas marché selon mes prescriptions</Gloss>
     <References>
       <Verse>00301800300</Verse>
       <Verse>02600500600</Verse>
@@ -8195,7 +8195,7 @@
     <Transliteration>חזק ++ לֵב</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>avoir le coeur endurci , le coeur de X s’endurcit</Gloss>
+    <Gloss>avoir le coeur endurci, le coeur de X s’endurcit</Gloss>
     <References>
       <Verse>00200402100</Verse>
       <Verse>00200701300</Verse>
@@ -8211,7 +8211,7 @@
     <Transliteration>חטא + אֵת + יִשְׂרָאֵל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>a poussé le peuple d’Israël de pécher, le péché qu'il avait fait commettre à Israël</Gloss>
+    <Gloss>a poussé le peuple d’Israël de pécher, le péché qu’il avait fait commettre à Israël</Gloss>
     <References>
       <Verse>01101401600</Verse>
       <Verse>01101502600</Verse>
@@ -8352,7 +8352,7 @@
     <Transliteration>טמא + עַד + הַ + עֶרֶב</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>il sera impur jusqu'au soir</Gloss>
+    <Gloss>il sera impur jusqu’au soir</Gloss>
     <References>
       <Verse>00301102400</Verse>
       <Verse>00301102500</Verse>
@@ -8650,7 +8650,7 @@
     <Transliteration>ידע ++ כִּי + אֲנִי + יהוה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>ils sauront que je suis le SEIGNEUR, vous reconnaîtrez que c'est moi le SEIGNEUR</Gloss>
+    <Gloss>ils sauront que je suis le SEIGNEUR, vous reconnaîtrez que c’est moi le SEIGNEUR</Gloss>
     <References>
       <Verse>00200600700</Verse>
       <Verse>00200700500</Verse>
@@ -9440,7 +9440,7 @@
     <Transliteration>יהוה + אֱלֹהִים + יִשְׂרָאֵל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>le SEIGNEUR Dieu d'Israël</Gloss>
+    <Gloss>le SEIGNEUR Dieu d’Israël</Gloss>
     <References>
       <Verse>00200500100</Verse>
       <Verse>00203202700</Verse>
@@ -10206,7 +10206,7 @@
     <Transliteration>כְּ + אֲשֶׁר + דבר + יהוה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>comme le SEIGNEUR l'avait parlé</Gloss>
+    <Gloss>comme le SEIGNEUR l’avait parlé</Gloss>
     <References>
       <Verse>00102405100</Verse>
       <Verse>00200701300</Verse>
@@ -10272,7 +10272,7 @@
     <Transliteration>כְּ + אֲשֶׁר + צוה + יהוה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>comme le SEIGNEUR l'avait ordonné</Gloss>
+    <Gloss>comme le SEIGNEUR l’avait ordonné</Gloss>
     <References>
       <Verse>00200700600</Verse>
       <Verse>00200701000</Verse>
@@ -10997,7 +10997,7 @@
     <Transliteration>כֹּהֵן + הַ + מָשִׁיחַ</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>le prêtre consacré par l'onction</Gloss>
+    <Gloss>le prêtre consacré par l’onction</Gloss>
     <References>
       <Verse>00300400300</Verse>
       <Verse>00300400500</Verse>
@@ -11043,7 +11043,7 @@
     <Transliteration>כֹּל + אֲשֶׁר + עשׂה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>tout ce qu'il a fait</Gloss>
+    <Gloss>tout ce qu’il a fait</Gloss>
     <References>
       <Verse>00100103100</Verse>
       <Verse>00103902200</Verse>
@@ -11660,7 +11660,7 @@
     <Transliteration>כהן + לְ</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>consacrer-les à mon service comme prêtres, afin qu'il exerce pour moi le sacerdoce</Gloss>
+    <Gloss>consacrer-les à mon service comme prêtres, afin qu’il exerce pour moi le sacerdoce</Gloss>
     <References>
       <Verse>00202800100</Verse>
       <Verse>00202800300</Verse>
@@ -11934,7 +11934,7 @@
     <Transliteration>לְ + כפר + עַל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>pour faire sur lui le rite d'absolution</Gloss>
+    <Gloss>pour faire sur lui le rite d’absolution</Gloss>
     <References>
       <Verse>00203001500</Verse>
       <Verse>00203001600</Verse>
@@ -12256,7 +12256,7 @@
     <Transliteration>לְ + שַׁמָּה + וְ + לְ + שְׁרֵקָה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>une désolation et un sifflement d’horreur, une désolation qui arrachera des cris d'effroi</Gloss>
+    <Gloss>une désolation et un sifflement d’horreur, une désolation qui arrachera des cris d’effroi</Gloss>
     <References>
       <Verse>01402900800</Verse>
       <Verse>02401900800</Verse>
@@ -12348,7 +12348,7 @@
     <Transliteration>לֹא + חוס + עַיִן</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>ton œil sera sans pitié, tu n'auras aucune pitié</Gloss>
+    <Gloss>ton œil sera sans pitié, tu n’auras aucune pitié</Gloss>
     <References>
       <Verse>00500701600</Verse>
       <Verse>00501300900</Verse>
@@ -12548,7 +12548,7 @@
     <Transliteration>מִזְבֵּחַ + הַ + זָהָב</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>l'autel d’or (l’autel de l’encens)</Gloss>
+    <Gloss>l’autel d’or (l’autel de l’encens)</Gloss>
     <References>
       <Verse>00203903800</Verse>
       <Verse>00204000500</Verse>
@@ -12562,7 +12562,7 @@
     <Transliteration>מִזְבֵּחַ + הַ + נְחֹשֶׁת</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>l'autel de bronze (l’autel des sacrifices)</Gloss>
+    <Gloss>l’autel de bronze (l’autel des sacrifices)</Gloss>
     <References>
       <Verse>00203803000</Verse>
       <Verse>00203903900</Verse>
@@ -12579,7 +12579,7 @@
     <Transliteration>מִזְבֵּחַ + הַ + עֹלָה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>l'autel des holocaustes, l’autel des sacrifices</Gloss>
+    <Gloss>l’autel des holocaustes, l’autel des sacrifices</Gloss>
     <References>
       <Verse>00203002800</Verse>
       <Verse>00203100900</Verse>
@@ -12750,7 +12750,7 @@
     <Transliteration>מִן + דָּן</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>depuis Dan (jusqu'à Béer-Shéva), de Dan au nord jusqu’à Béer-Shéva au sud</Gloss>
+    <Gloss>depuis Dan (jusqu’à Béer-Shéva), de Dan au nord jusqu’à Béer-Shéva au sud</Gloss>
     <References>
       <Verse>00702000100</Verse>
       <Verse>00900302000</Verse>
@@ -12798,7 +12798,7 @@
     <Transliteration>מִן + קָטֹן ++ עַד + גָּדוֹל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>du petit au grand, depuis le plus petit jusqu'au plus grand</Gloss>
+    <Gloss>du petit au grand, depuis le plus petit jusqu’au plus grand</Gloss>
     <References>
       <Verse>00101901100</Verse>
       <Verse>00900500900</Verse>
@@ -12992,7 +12992,7 @@
     <Transliteration>מֶלֶךְ + אֲרָם</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>roi d'Aram, roi de Syrie</Gloss>
+    <Gloss>roi d’Aram, roi de Syrie</Gloss>
     <References>
       <Verse>00700301000</Verse>
       <Verse>01101002900</Verse>
@@ -13040,7 +13040,7 @@
     <Transliteration>מֶלֶךְ + אַשּׁוּר</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>roi d'Assyrie</Gloss>
+    <Gloss>roi d’Assyrie</Gloss>
     <References>
       <Verse>01201501900</Verse>
       <Verse>01201502000</Verse>
@@ -13457,7 +13457,7 @@
     <Transliteration>מֶלֶךְ + יִשְׂרָאֵל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>roi d'Israël 1. toute la nation unie, 2. le royaume du nord</Gloss>
+    <Gloss>roi d’Israël 1. toute la nation unie, 2. le royaume du nord</Gloss>
     <References>
       <Verse>00902401500</Verse>
       <Verse>00902602000</Verse>
@@ -13818,7 +13818,7 @@
     <Transliteration>מַעֲלֶה + עַקְרָב</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>la montée d'Aqrabbim, la colline des Scorpions</Gloss>
+    <Gloss>la montée d’Aqrabbim, la colline des Scorpions</Gloss>
     <References>
       <Verse>00403400400</Verse>
       <Verse>00601500300</Verse>
@@ -13840,7 +13840,7 @@
     <Transliteration>מַעֲשֶׂה + חֹשֵׁב</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>un ouvrage d'artisan, le travail d’un artisan</Gloss>
+    <Gloss>un ouvrage d’artisan, le travail d’un artisan</Gloss>
     <References>
       <Verse>00202600100</Verse>
       <Verse>00202603100</Verse>
@@ -14064,7 +14064,7 @@
     <Transliteration>מלך ++ תַּחַת + אָב</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>ils l'établirent roi à la place de son père</Gloss>
+    <Gloss>ils l’établirent roi à la place de son père</Gloss>
     <References>
       <Verse>01201402100</Verse>
       <Verse>01202303000</Verse>
@@ -14466,7 +14466,7 @@
     <Transliteration>נֶפֶשׁ + לְ + שָׁלָל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>sa vie sera son butin, il s'estimera heureux d'avoir au moins la vie sauve</Gloss>
+    <Gloss>sa vie sera son butin, il s’estimera heureux d’avoir au moins la vie sauve</Gloss>
     <References>
       <Verse>02402100900</Verse>
       <Verse>02403800200</Verse>
@@ -14545,7 +14545,7 @@
     <Transliteration>נָשִׂיא + יִשְׂרָאֵל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>les chefs d’Israël, les responsables d'Israël</Gloss>
+    <Gloss>les chefs d’Israël, les responsables d’Israël</Gloss>
     <References>
       <Verse>00400104400</Verse>
       <Verse>00400404600</Verse>
@@ -14576,7 +14576,7 @@
     <Transliteration>נטה + אֹזֶן</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>tends l'oreille, écoute</Gloss>
+    <Gloss>tends l’oreille, écoute</Gloss>
     <References>
       <Verse>01901700600</Verse>
       <Verse>01904501100</Verse>
@@ -14718,7 +14718,7 @@
     <Transliteration>נשׂא + יָד</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>1. lever la main (et jurer), 2. lever la main contre quelqu'un, 3. lever les mains (en prière)</Gloss>
+    <Gloss>1. lever la main (et jurer), 2. lever la main contre quelqu’un, 3. lever les mains (en prière)</Gloss>
     <References>
       <Verse>00200600800</Verse>
       <Verse>00401403000</Verse>
@@ -14777,21 +14777,6 @@
     <Transliteration>נשׂא ++ עָוֺן</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>pardonner le péché, enlever la faute</Gloss>
-    <References>
-      <Verse>00203400700</Verse>
-      <Verse>00401401800</Verse>
-      <Verse>01903200500</Verse>
-      <Verse>01908500300</Verse>
-      <Verse>02303302400</Verse>
-      <Verse>02801400300</Verse>
-      <Verse>03300701800</Verse>
-    </References>
-  </Term>
-  <Term Id="נשׂא ++ עָוֺן">
-    <Transliteration>נשׂא ++ עָוֺן</Transliteration>
-    <Domain />
-    <Language>Hebrew</Language>
     <Gloss>ils se chargeront des fautes, ils porteront le poids de sa faute</Gloss>
     <References>
       <Verse>00202804300</Verse>
@@ -14812,6 +14797,21 @@
       <Verse>02601802000</Verse>
       <Verse>02604401000</Verse>
       <Verse>02604401200</Verse>
+    </References>
+  </Term>
+  <Term Id="נשׂא ++ עָוֺן">
+    <Transliteration>נשׂא ++ עָוֺן</Transliteration>
+    <Domain />
+    <Language>Hebrew</Language>
+    <Gloss>pardonner le péché, enlever la faute</Gloss>
+    <References>
+      <Verse>00203400700</Verse>
+      <Verse>00401401800</Verse>
+      <Verse>01903200500</Verse>
+      <Verse>01908500300</Verse>
+      <Verse>02303302400</Verse>
+      <Verse>02801400300</Verse>
+      <Verse>03300701800</Verse>
     </References>
   </Term>
   <Term Id="נתן + לֵב">
@@ -15837,7 +15837,7 @@
     <Transliteration>עַל + רוּחַ + יהוה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>l'Esprit du SEIGNEUR vient sur lui</Gloss>
+    <Gloss>l’Esprit du SEIGNEUR vient sur lui</Gloss>
     <References>
       <Verse>00700301000</Verse>
       <Verse>00701400600</Verse>
@@ -15878,7 +15878,7 @@
     <Transliteration>עַם + יִשְׂרָאֵל</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>le peuple d'Israël</Gloss>
+    <Gloss>le peuple d’Israël</Gloss>
     <References>
       <Verse>00502100800</Verse>
       <Verse>00600803300</Verse>
@@ -16049,7 +16049,7 @@
     <Transliteration>עֹלָה + הַ + תָּמִיד</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>l'holocauste perpétuel, les sacrifices complets présentés chaque jour</Gloss>
+    <Gloss>l’holocauste perpétuel, les sacrifices complets présentés chaque jour</Gloss>
     <References>
       <Verse>00402801000</Verse>
       <Verse>00402801500</Verse>
@@ -16100,7 +16100,7 @@
     <Transliteration>עבד + אֱלֹהִים + אַחֵר</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>servir d’autres dieux, rendre un culte à d'autres dieux</Gloss>
+    <Gloss>servir d’autres dieux, rendre un culte à d’autres dieux</Gloss>
     <References>
       <Verse>00500700400</Verse>
       <Verse>00501101600</Verse>
@@ -16516,7 +16516,7 @@
     <Transliteration>פָּנֶה + מַמְרֵא</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>à l'est de Mamré</Gloss>
+    <Gloss>à l’est de Mamré</Gloss>
     <References>
       <Verse>00102301700</Verse>
       <Verse>00102301900</Verse>
@@ -16624,7 +16624,7 @@
     <Transliteration>צָבָא + הַ + שָׁמַיִם</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>l'armée des cieux, l’armée du ciel</Gloss>
+    <Gloss>l’armée des cieux, l’armée du ciel</Gloss>
     <References>
       <Verse>00500401900</Verse>
       <Verse>00501700300</Verse>
@@ -16698,7 +16698,7 @@
     <Transliteration>קָדוֹשׁ + הוּא</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>Il est saint</Gloss>
+    <Gloss>il est saint</Gloss>
     <References>
       <Verse>00302100700</Verse>
       <Verse>00400600800</Verse>
@@ -16895,7 +16895,7 @@
     <Transliteration>קדד + וְ + חוה</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>il s’agenouillera et se prosterna, il s'inclina et se prosterna</Gloss>
+    <Gloss>il s’agenouillera et se prosterna, il s’inclina et se prosterna</Gloss>
     <References>
       <Verse>00102404800</Verse>
       <Verse>00104302800</Verse>
@@ -17470,7 +17470,7 @@
     <Transliteration>רום + קֶרֶן</Transliteration>
     <Domain />
     <Language>Hebrew</Language>
-    <Gloss>sa corne s'élèvera, sa force a été relevée</Gloss>
+    <Gloss>sa corne s’élèvera, sa force a été relevée</Gloss>
     <References>
       <Verse>00900200100</Verse>
       <Verse>00900201000</Verse>
