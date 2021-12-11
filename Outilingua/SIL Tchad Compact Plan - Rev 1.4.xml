@@ -1,0 +1,1578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProgressInfo version="1">
+  <PlanId>c7c86777-c746-4ad5-a312-17be6f87549d</PlanId>
+  <Stages>
+    <Stage id="9eddb82d-ed66-4e24-bdab-060dea2294de">
+      <BookStatus />
+      <TargetCompletionDateMap />
+      <Task id="9f99673c-cb6a-4c05-a9cd-4629eb7f6b20">
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>42</EasiestBooksVPD>
+        <EasyBooksVPD>36</EasyBooksVPD>
+        <ModerateBooksVPD>30</ModerateBooksVPD>
+        <DifficultBooksVPD>24</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Exegesis</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Exegese</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Exégesis</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Exégèse</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Study the text carefully, using Paratext resources and commentaries. 
+This may involve: 
+● chunking the text into meaningful units
+● identifying translation issues
+● identifying cultural issues
+● oral retelling and processing of the text
+
+After understanding and internalizing the passage, it may be helpful to retell it in the vernacular without looking at the model text(s).  Doing this can free the translator's mind from the form of the model language, creating a more natural translation.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Estude o texto cuidadosamente, utilizando diversos versões da Bíblia e comentários do Paratext.
+Isto pode envolver: 
+
+ ● dividindo o texto em unidades significativas 
+ ● identificação de problemas de tradução 
+ ● identificação de questões culturais  
+ ● recontagem oral e processamento do texto
+
+Depois de compreender e interiorizar a passagem, pode ser útil recontá-lo no vernáculo sem olhar para o(s) texto(s) modelo(s).  Fazer isso pode libertar o pensamento do tradutor da influência da forma da linguagem modelo, criando uma tradução mais natural.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Estudie el texto cuidadosamente, utilizando recursos y comentarios de Paratext. 
+Esto puede incluir: 
+● dividiendo el texto en unidades significativas
+● identificación de problemas de traducción
+● identificación de cuestiones culturales
+● relato oral y procesamiento del texto 
+
+Después de entender el pasaje, puede ser útil volver a contarlo en lengua vernácula sin mirar el texto o textos modelo para liberar la mente del traductor de la forma del lenguaje modelo, creando una traducción más natural.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Étudier attentivement le texte à l’aide des ressources et des commentaires de Paratext.
+Cela peut impliquer :
+● découper le texte en unités significatives
+● identifier les problèmes de traduction
+● identifier les questions culturelles
+● raconter oralement et discuter le sens du texte
+
+Après avoir compris et assimilé le passage, il est utile de le redire dans la langue vernaculaire sans regarder les textes modèles. Cela peut libérer l’esprit du traducteur de la forme du langage modèle, créant ainsi une traduction plus naturelle.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenBookStarts</Availability>
+      </Task>
+      <Task id="43884fe5-7bea-43f0-9b62-f424963d3638">
+        <EditingRequired proj="SPP" type="ScriptureText" />
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>14</EasiestBooksVPD>
+        <EasyBooksVPD>12</EasyBooksVPD>
+        <ModerateBooksVPD>10</ModerateBooksVPD>
+        <DifficultBooksVPD>8</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Create the first draft</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Criar o primeiro rascunho</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Crear el primer borrador</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Rédaction (saisie) de la première ébauche</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Draft the text in Paratext and re-read to check for typographical errors. It is recommended to use the Biblical Terms Rendering window or an Enhanced Resource to see what renderings have been used and to add new renderings as needed.
+</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Rascunhar o texto em Paratext e reler para verificar se há erros tipográficos ou não. É recomendado usar a janela de renderização de termos bíblicos ou um recurso aprimorado para ver quais renderizações foram usadas e para adicionar novas renderizações conforme necessário.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Redacte el texto en Paratext y vuelva a leerlo para comprobar si hay errores tipográficos. Se recomienda usar la ventana de Traducciones de Vocablos Bíblico o un recurso aumentado para ver qué traducciones se han usado y para agregar nuevas traducciones según sea necesario.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Rédiger le texte dans Paratext et le relire pour vérifier les erreurs de frappe. Il est recommandé d’utiliser la fenêtre Termes bibliques équivalents ou une ressource améliorée pour voir quels équivalents ont été utilisés et pour ajouter de nouveaux équivalents si nécessaire.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForChapter</Availability>
+      </Task>
+      <Check id="ff588448-6faf-4da9-bdbe-e5a79c2d9e2e">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>ChapterVerse</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Check id="e479d1c2-ad7d-4574-a5e0-eb23e2fcaa41">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>Marker</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Check id="de495b64-0cd5-42da-a8cc-cbbcad3df781">
+        <Type>NotesAssignedToMeCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType />
+        <PostponedBooks />
+      </Check>
+      <Check id="f04853b4-3773-45b8-9bc6-d1c687481b1e">
+        <Type>SpellCheckIncorrect</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType />
+        <PostponedBooks />
+      </Check>
+      <Check id="9d5bba8a-19bc-44c5-b086-ca86ee9e428c">
+        <Type>NoteCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType />
+        <Details>-1</Details>
+        <PostponedBooks />
+      </Check>
+      <Names>
+        <item>
+          <string>en</string>
+          <string>Drafting</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>Rascunho</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>Redacción</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Exégèse et rédaction de l’ébauche</string>
+        </item>
+      </Names>
+      <Descriptions>
+        <item>
+          <string>en</string>
+          <string>View this plan by opening the accompanying SIL_Compact_Plan.html document.
+
+This stage involves creating the first draft of the translation.
+</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>Vá até Verificação &gt; Paratext 6 checks&gt; PBT&gt; Show Project Plan HTML para visualizar ou imprimir este plano. 
+
+Esta etapa envolve a criação do primeiro rascunho da tradução.</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>Vea este plan abriendo el documento adjunto SIL_Compact_Plan.html.
+
+Esta etapa implica la creación del primer borrador de la traducción.</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Consulter ce plan en ouvrant le document SIL_Compact_Plan.html qui l’accompagne.
+
+Cette étape consiste à créer la première ébauche de la traduction.</string>
+        </item>
+      </Descriptions>
+    </Stage>
+    <Stage id="9443afef-8302-4727-8f85-1cb4ef464168">
+      <BookStatus />
+      <TargetCompletionDateMap />
+      <Task id="7bebeaeb-5932-4232-add9-22f60ac05007">
+        <EditingRequired proj="MP6" type="ScriptureText" />
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>42</EasiestBooksVPD>
+        <EasyBooksVPD>36</EasyBooksVPD>
+        <ModerateBooksVPD>30</ModerateBooksVPD>
+        <DifficultBooksVPD>24</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Naturalness check</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Verificar de naturalidade do Texto</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Control de la naturalidad</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Contrôle du naturel</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Read the draft. While reading the text, check the general flow of the discourse, its logic, chronology, participant reference, sentence length &amp; rhythm, language style and register, etc. Adjust text as necessary to resolve any issues found.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Leia o rascunho. Ao ler o texto, verifique o fluxo geral do discurso, sua lógica, cronologia, referência do participante, duração e ritmo da frase, estilo de linguagem e registro, etc. Ajuste o texto conforme necessário para resolver quaisquer problemas encontrados.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Leer el borrador, comprobar el flujo general del discurso, su lógica, cronología, referencia del participante, duración y ritmo de la oración, estilo y registro del lenguaje, etc. Ajuste el texto según sea necesario para resolver cualquier problema que encuentre.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Lire l’ébauche. Pendant la lecture du texte, vérifier la fluidité du discours, sa logique, sa chronologie, les références aux participants, la longueur et le rythme des phrases, le style et le registre linguistique, etc. Ajuster le texte, si nécessaire, pour résoudre tout problème trouvé.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsCompleteByChapter</Availability>
+        <PrerequisiteStageId>9eddb82d-ed66-4e24-bdab-060dea2294de</PrerequisiteStageId>
+      </Task>
+      <Task id="3480d1ca-6ee7-40eb-a31e-f0e06dbf73a8">
+        <EditingRequired proj="MP6" type="ScriptureText" />
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>42</EasiestBooksVPD>
+        <EasyBooksVPD>36</EasyBooksVPD>
+        <ModerateBooksVPD>30</ModerateBooksVPD>
+        <DifficultBooksVPD>24</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Exegetical check</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Verificação exegética</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Comprobación exegética</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Contrôle exégétique</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Compare the draft with one or two translations in the national language, discuss exegetical choices that have been made in the translation, identify possible exegetical mistakes in the translation; identify any missing verses or sentences. Adjust text as necessary to resolve any issues found.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Comparar o rascunho com uma ou duas traduções na língua nacional, discutir escolhas exegéticas que foram feitas na tradução, identificar possíveis erros exegéticos na tradução; identificar quaisquer versículos ou frases em falta. Ajuste o texto conforme necessário para resolver quaisquer problemas encontrados.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Compare el borrador con una o dos traducciones en el idioma nacional, discuta las elecciones exegéticas que se han hecho en la traducción, identifique posibles errores exegéticos en la traducción, identifique cualquier versículo u oración que falte. Ajuste el texto según sea necesario para resolver cualquier problema que encuentre.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Comparer l’ébauche avec une ou deux traductions dans la langue nationale, discuter des choix exégétiques qui ont été faits dans la traduction, identifier les erreurs exégétiques possibles dans la traduction, et identifier les versets ou phrases manquants. Ajuster le texte, si nécessaire, pour résoudre tout problème trouvé. Comparaison avec version littérale.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsCompleteByChapter</Availability>
+        <PrerequisiteStageId>9eddb82d-ed66-4e24-bdab-060dea2294de</PrerequisiteStageId>
+      </Task>
+      <Task id="427692d3-6cd1-450b-a90f-a09d64fa3610">
+        <EditingRequired proj="SPP" type="ScriptureText" />
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>1000</EasiestBooksVPD>
+        <EasyBooksVPD>1000</EasyBooksVPD>
+        <ModerateBooksVPD>1000</ModerateBooksVPD>
+        <DifficultBooksVPD>1000</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Format check</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Verificação de formatação</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Verificación de formato</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Vérification du formatage du texte</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Check the layout, indents, and special formatting.
+Read the text and verify that the paragraph breaks are in the desired places. If another translation is used as a base then this check can be done using Tools&gt;  Checklists&gt; Markers and look for the new paragraph markers such as \p, and \m. 
+
+It may be useful to check the section headings using Tools&gt;  Checklists&gt; Section Headings. 
+
+Verify other layout issues such as poetry. Particular attention should be given to poetry indentations. If another translation is used as a base then this check can be done using Tools&gt;  Checklists&gt; Markers and look for the new paragraph markers such as \q, \q1 and \q2. 
+
+See list of special formatting issues such as genealogies, words on the cross, letters, etc. 
+
+Verify that text is marked using the correct standard format markers (USFMs). See https://ubsicap.github.io/usfm for USFM documentation.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Verifique o layout, os recuos e a formatação especial.
+
+Leia o texto e verifique se as quebras de parágrafo estão nos locais desejados. Se outra tradução for usada como base, então esta verificação pode ser feita usando Ferramentas&gt; Listas de Verificações&gt; Marcadores e procure os novos marcadores de parágrafo como \p, e \m. 
+
+Pode ser útil verificar os cabeçalhos das seções usando Ferramentas&gt; Listas de Verificações &gt; Títulos de Secção. 
+
+Verifique outras questões de layout, como poesia. Especial atenção deve ser dada às indentações de poesia. Se outra tradução for usada como base, então esta verificação pode ser feita usando Ferramentas&gt; Listas de Verificações&gt; Marcadores e procure os novos marcadores de parágrafo como \q, \q1 e \q2. 
+
+Veja a lista de questões especiais de formatação como genealogias, palavras na cruz, letras, etc. 
+
+Verifique se o texto está marcado usando os marcadores de formato padrão corretos (USFMs). Consulte https://ubsicap.github.io/usfm para ver a documentação USFM.
+
+</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Compruebe el diseño, las sangrías y el formato especial.
+Lea el texto y verifique que los saltos de párrafo estén en los lugares deseados. Si se utiliza otra traducción como base, esta comprobación se puede hacer utilizando Herramientas &gt; Lista de verificaciones &gt; Marcadores y buscar los marcadores de párrafo como \p, y \m. 
+
+Puede ser útil comprobar los encabezados de las secciones mediante Herramientas &gt; Lista de verificaciones &gt; Encabezados de secciones. 
+
+Verifique otros aspectos de diseño como la poesía. Se debe prestar especial atención a las sangrías poéticas. Si se utiliza otra traducción como base, esta comprobación se puede realizar utilizando Herramientas &gt; Lista de verificaciones &gt; Marcadores y buscar los marcadores de párrafo como \q, \q1 y \q2. 
+
+Ver lista de temas especiales de formato como genealogías, palabras en la cruz, cartas, etc. 
+
+Verifique que el texto esté marcado utilizando los marcadores de formato estándar (USFM) correctos. Ver https://ubsicap.github.io/usfm para la documentación de USFM.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Vérifier la mise en page, les retraits et le formatage spécial.
+Lire le texte et vérifier que les sauts de paragraphe se trouvent aux endroits souhaités. Si une autre traduction est utilisée comme base, cette vérification peut être faite en utilisant Outils&gt; Listes récapitulatives&gt; Marqueurs et rechercher les nouveaux marqueurs de paragraphe tels que \p et \m.
+
+Il peut être utile de vérifier les en-têtes de section à l’aide de Outils&gt; Listes récapitulatives&gt; En-têtes de section.
+
+Vérifier d’autres questions de mise en page telles que la poésie. Une attention particulière devrait être accordée aux retraits de poésie. Si une autre traduction est utilisée comme base, cette vérification peut être effectuée en utilisant Outils&gt; Listes récapitulatives&gt; Marqueurs et rechercher les nouveaux marqueurs de paragraphe tels que \q, \q1 et \q2.
+
+Voir la liste des questions spéciales de mise en forme telles que les généalogies, les mots sur la croix, les lettres, etc.
+
+Vérifier que le texte est marqué à l’aide des marqueurs corrects de format standard (USFM). Voir https://ubsicap.github.io/usfm pour la documentation de l’USFM.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsCompleteByChapter</Availability>
+        <PrerequisiteStageId>9eddb82d-ed66-4e24-bdab-060dea2294de</PrerequisiteStageId>
+      </Task>
+      <Task id="f501021c-2ae1-4579-a5a8-ceb9d63979c5">
+        <EditingRequired proj="SPP" type="ScriptureText" />
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>210</EasiestBooksVPD>
+        <EasyBooksVPD>180</EasyBooksVPD>
+        <ModerateBooksVPD>150</ModerateBooksVPD>
+        <DifficultBooksVPD>120</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Draft supplementary materials</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Fazer versões preliminares de materiais suplementares</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Proyectos de materiales suplementarios</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Rédaction des matériels supplémentaires</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>These materials may include: 
+● section headings
+● footnotes
+● cross-references
+● illustrations (including captions)
+● maps
+● glossary entries
+● book introductions.
+</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Estes materiais podem incluir: 
+
+ ● títulos de secção 
+ ● notas de rodapé
+ ● referências cruzadas
+ ● ilustrações (incluindo legendas)
+ ● mapas
+ ● entradas do glossário
+ ● introduções de livros
+
+</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Estos materiales pueden incluir: 
+● títulos de las secciones
+● notas a pie de página
+● referencias cruzadas
+● ilustraciones (incluyendo subtítulos)
+● mapas
+● entradas de glosario
+● introducciones a los libros</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Ces matériels peuvent comprendre :
+● titres des sections
+● notes de bas de page
+● renvois
+● illustrations (y compris les légendes)
+● cartes
+● entrées du glossaire
+● introductions des livres</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenBookStarts</Availability>
+      </Task>
+      <Task id="75365725-9717-46de-85f9-413d44af9b59">
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>210</EasiestBooksVPD>
+        <EasyBooksVPD>180</EasyBooksVPD>
+        <ModerateBooksVPD>150</ModerateBooksVPD>
+        <DifficultBooksVPD>120</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Prepare for comprehension testing</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Preparo para o teste de compreensão</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Prepárese para la prueba de comprensión</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Préparation pour les tests de compréhension</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Prepare comprehension testing questions: 
+● Re-read the translation text
+● Draft general retell questions for comprehension testing
+● Identify possible issues of misunderstanding
+● Draft specific questions related to the main events in the passage, participant reference, key terms, foreign concepts, metaphors, rhetorical questions, inferential information, positive or negative associations, etc. </string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Preparar perguntas de teste de compreensão: 
+
+● Releia o texto da tradução
+
+● Redigir perguntas gerais de recontagem para testes de compreensão
+
+● Identificar possíveis problemas de mal-entendidos
+
+● Redigir perguntas específicas relacionadas com os principais eventos da passagem, referência ao participante, termos-chave, conceitos estrangeiros, metáforas, perguntas retóricas, informações inferenciais, associações positivas ou negativas, etc. </string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Preparar preguntas para la prueba de comprensión: 
+● Releer el texto traducido
+● Redactar las preguntas generales del relato para la prueba de comprensión
+● Identificar posibles problemas de malentendidos
+● Redactar las preguntas específicas relacionadas con los principales eventos del pasaje, referencia de los participantes, términos clave, conceptos extranjeros, metáforas, preguntas retóricas, información inferencial, asociaciones positivas o negativas, entre otras.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Préparer les questions du test de compréhension :
+● Relire le texte traduit
+● Ecrire des questions de reformulation pour tester la compréhension
+● Identifier les problèmes possibles de mauvaise compréhension
+● Rédiger des questions spécifiques liées aux principaux événements du passage, aux références des participants, aux termes clés, aux concepts étrangers, aux métaphores, aux questions rhétoriques, aux informations déduites, aux associations positives ou négatives, etc.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsCompleteByChapter</Availability>
+        <PrerequisiteStageId>9eddb82d-ed66-4e24-bdab-060dea2294de</PrerequisiteStageId>
+      </Task>
+      <Task id="e2642958-0d86-450b-8c6d-df076b05ab5f">
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>100</EasiestBooksVPD>
+        <EasyBooksVPD>85</EasyBooksVPD>
+        <ModerateBooksVPD>70</ModerateBooksVPD>
+        <DifficultBooksVPD>60</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Perform comprehension testing</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Realizar testes de compreensão</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Realizar pruebas de comprensión</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Tests de compréhension</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Perform comprehension testing, documenting feedback/answers for later analysis/review. Include supplementary materials in testing.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Realizar testes de compreensão, documentando feedback/respostas para posterior análise/revisão. Incluir materiais suplementares nos testes.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Realizar pruebas de comprensión, documentando comentarios/respuestas para su análisis/revisión. Incluya materiales suplementarios en las pruebas.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Effectuer des tests de compréhension, documenter le feedback et les réponses pour une analyse/révision ultérieure. Inclure les matériels supplémentaires dans les tests.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForChapter</Availability>
+      </Task>
+      <Task id="17f2161c-086e-4016-975d-c58dfb7f55cf">
+        <EditingRequired proj="MP6" type="ScriptureText" />
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>42</EasiestBooksVPD>
+        <EasyBooksVPD>36</EasyBooksVPD>
+        <ModerateBooksVPD>30</ModerateBooksVPD>
+        <DifficultBooksVPD>24</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Revise from feedback</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Revisão baseada em feedback</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Revisar a partir de los comentarios</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Révision à partir du feedback</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>The team reviews the results of the comprehension testing and incorporates changes to the text where appropriate. Repeat comprehension testing for revised passages as necessary.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>A equipa revê os resultados do teste de compreensão e incorpora alterações ao texto sempre que necessário. Se necessário, repita o teste de compreensão para as passagens revistas.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>El equipo revisa los resultados de las pruebas de comprensión e incorpora cambios al texto cuando es apropiado. Repita la prueba de comprensión para los pasajes revisados según sea necesario.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>L’équipe examine les résultats des tests de compréhension et apporte des modifications au texte, si nécessaire. Répéter les tests de compréhension pour les passages révisés, au besoin.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForChapter</Availability>
+      </Task>
+      <Task id="2ec90ac3-5a29-4897-a8c5-7c049423c5ff">
+        <EditingRequired proj="TT1" type="ScriptureText" />
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>1000</EasiestBooksVPD>
+        <EasyBooksVPD>1000</EasyBooksVPD>
+        <ModerateBooksVPD>1000</ModerateBooksVPD>
+        <DifficultBooksVPD>1000</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>fr</string>
+            <string>Test d'acceptabilité des termes bibliques</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>fr</string>
+            <string>Des leadeurs religieux et civiles et d’autres membres de la communauté (le comité de révision) discutent de la façon dont les termes clés sont rendus. L’équipe discute des commentaires sur les termes clés formulés lors de l’examen de la communauté et applique les changements qu’elle juge valables.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenBookStarts</Availability>
+      </Task>
+      <Check id="5ae2f5c6-88c6-4692-8ced-eb6439483403">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>Character</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Check id="c534b7ee-ddf0-42da-bd0e-0ebdc7282a3c">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>Punctuation</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Check id="e010aa8e-8a52-4eec-94ac-f13c7938ec49">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>Capitalization</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Check id="7d5c214e-8bf6-4a4e-ae1a-0aa7e4ad2d9e">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>RepeatedWord</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Check id="f344898d-47a1-44f8-9d94-2da2291af6b8">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>QuotedText</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Check id="3f8ad932-a081-4c6e-b144-b7f498f8eb19">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>MatchedPairs</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Check id="f033fe1b-4066-47c8-9908-62da5bab8894">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>Quotation</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Check id="1e3ad0ab-6ba4-4a50-a002-9add07d90f76">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>Numbers</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Names>
+        <item>
+          <string>en</string>
+          <string>Team Check &amp; Comprehension Check</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>Verificação em Equipe &amp; Verificação de Compreensão</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>Comprobación por parte del equipo y comprobación de la comprensión</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Vérification en équipe et tests de la compréhension</string>
+        </item>
+      </Names>
+      <Descriptions>
+        <item>
+          <string>en</string>
+          <string>The team checks the naturalness and exegesis of the draft, and then tests it with the target audience to make sure that it communicates well. 
+
+If you add any custom project note tags to your project, you will have to specify which stage(s) the automated checks for those tags will need to begin.</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>A equipa verifica a naturalidade e a exegese do rascunho, depois testa-o com o público-alvo para se certificar de que se comunica bem. Se você adicionar quaisquer tags personalizadas de notas de projeto ao seu projeto, você terá que especificar qual(is) estágio(s) as verificações automatizadas para essas tags precisarão começar.</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>El equipo comprueba la naturalidad y exégesis del borrador, luego lo prueba con el público para asegurarse de que se comunica bien. 
+
+Si añade etiquetas de nota de proyecto personalizadas a su proyecto, tendrá que especificar en qué etapa(s) deben comenzar las comprobaciones automáticas de dichas etiquetas.</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>L’équipe vérifie le caractère naturel et l’exégèse de la traduction, puis elle la test avec le public cible pour s’assurer qu’elle communique bien.</string>
+        </item>
+      </Descriptions>
+    </Stage>
+    <Stage id="20974cee-9f40-43c4-a0ae-5e733238e134">
+      <BookStatus />
+      <TargetCompletionDateMap />
+      <Task id="ad01a5fb-5bfa-46bf-8cd1-0dc25cc49369">
+        <EditingRequired proj="TT1" type="ScriptureText" />
+        <Field Name="FirstTaskManuallySet" breaksCompatibility="false">True</Field>
+        <Type>Manual</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>1000</EasiestBooksVPD>
+        <EasyBooksVPD>1000</EasyBooksVPD>
+        <ModerateBooksVPD>1000</ModerateBooksVPD>
+        <DifficultBooksVPD>1000</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>fr</string>
+            <string>Vérification de la concordance des termes bibliques</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>fr</string>
+            <string>En plus que la vérification "Équivalents des termes bibliques trouvés" (qui se trouve dans cette étape), considérer la concordance des termes bibliques dans ce livre avec les termes dans les livres qui ont déjà été traduits et vérifiés avec le conseiller.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForBook</Availability>
+      </Task>
+      <Task id="739597f2-52bf-4cf0-a85a-f5fd34858fcb">
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>1000</EasiestBooksVPD>
+        <EasyBooksVPD>1000</EasyBooksVPD>
+        <ModerateBooksVPD>1000</ModerateBooksVPD>
+        <DifficultBooksVPD>1000</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>fr</string>
+            <string>Préparation de l’analyse interlinéaire</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>fr</string>
+            <string>Si exigé par le conseiller, dans l’outil Géńerateur d’interlinéaire, ajouter des gloses en français pour aider le conseiller à comprendre le texte.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForChapter</Availability>
+      </Task>
+      <Task id="0b6970df-00ce-4da4-a46a-28be4c7f2e6a">
+        <EditingRequired proj="MPBt6" type="BackTranslationText" />
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>42</EasiestBooksVPD>
+        <EasyBooksVPD>36</EasyBooksVPD>
+        <ModerateBooksVPD>30</ModerateBooksVPD>
+        <DifficultBooksVPD>24</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Draft the back translation</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Rascunho da Retrotradução</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Redactar la retrotraducción</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Rédaction de la retraduction</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>The back translation is created by someone who was not involved in the translation. The goal is to show how a reader will understand the text. The text is entered into the back translation project.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>A retrotradução é criada por alguém que não estava envolvido na tradução. O objetivo é mostrar como um leitor comum irá entender o texto. O texto é introduzido no projecto de retrotradução.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>La retrotraducción es creada por alguien que no estuvo involucrado en la traducción, para mostrar cómo un lector entenderá el texto. El texto se introduce en el proyecto de retrotraducción.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Si exigé par le conseiller, obtenir une retraduction de quelqu’un qui n’a pas participé à la traduction. Saisir cette retraduction dans le projet fille de retraduction. Le but est de montrer comment le lecteur comprendra le texte.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsCompleteByChapter</Availability>
+        <PrerequisiteStageId>9443afef-8302-4727-8f85-1cb4ef464168</PrerequisiteStageId>
+      </Task>
+      <Task id="7c50ab22-d2cb-415b-b5b7-be52aaf02016">
+        <EditingRequired proj="MPBt6" type="BackTranslationText" />
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>100</EasiestBooksVPD>
+        <EasyBooksVPD>85</EasyBooksVPD>
+        <ModerateBooksVPD>70</ModerateBooksVPD>
+        <DifficultBooksVPD>60</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Check back translation</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Verifica a Retrotradução</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Comprobar la retrotraducción</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Vérification de la retraduction</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>The team should verify that back translation is complete, and mark all verses as finished in Paratext.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>A equipe deve verificar se a retrotradução está completa, e marcar todos os versículos como concluídos no Paratext.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>El equipo debe verificar que la retrotraducción esté completa, y marcar todos los versículos como terminados en Paratext.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>L’équipe doit vérifier que la retraduction est complète et marquer tous les versets comme achevés dans Paratext.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForChapter</Availability>
+      </Task>
+      <Check id="581bcedd-6eca-4b80-b9ff-9b4efa47eaf1">
+        <Type>BiblicalTermRenderings</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType />
+        <PostponedBooks />
+      </Check>
+      <Check id="b9bd07ed-3039-47bf-a796-1a236713831a">
+        <Type>RenderingNoteCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType />
+        <PostponedBooks />
+      </Check>
+      <Check id="13708566-a54d-4495-8806-def9b06c2265">
+        <Type>SpellingNoteCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType />
+        <PostponedBooks />
+      </Check>
+      <Check id="99848a8b-db6f-4c93-8324-5bbc8776c2f6">
+        <Type>SpellCheckUnknown</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType />
+        <PostponedBooks />
+      </Check>
+      <Check id="284e05e6-e87b-4bc7-a253-f3952f1b98ee">
+        <Type>NoteCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType />
+        <Details>1</Details>
+        <PostponedBooks />
+      </Check>
+      <Check id="cf13573a-f9a3-41d1-ae28-7d3788cdc02c">
+        <Type>PassageCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType />
+        <PostponedBooks />
+      </Check>
+      <Names>
+        <item>
+          <string>en</string>
+          <string>Prepare for Consultant</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>Preparo para a verificação do Consultor</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>Prepárese para el Consultor</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Préparation pour le conseiller</string>
+        </item>
+      </Names>
+      <Descriptions>
+        <item>
+          <string>en</string>
+          <string>The goal of this stage is to prepare the back translation for the consultant. 
+
+Automatic checks for missing and out of date verses in the back translation must be set to run at this stage. This check requires that the back translation project is associated with your project.</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>O objetivo desta etapa é preparar a retrotradução para o consultor. 
+
+Verificações automáticas de versículos ausentes e desatualizados na retrotradução devem ser feitas nesta fase. Esta verificação requer que o projeto de retrotradução seja associado ao seu projeto.</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>El objetivo de esta etapa es preparar la retrotraducción para el consultor. 
+
+Las verificaciones automáticas de los versículos faltantes y obsoletos en la retrotraducción deben configurarse para que se ejecuten en esta etapa después de haber asociado un proyecto de retrotraducción a este proyecto.</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>L’objectif de cette étape est de préparer le texte pour le conseiller.
+
+Si le conseiller exige une analyse interlinéaire, ajouter des gloses dans l’interlinéaire.
+
+Si une retraduction est exigé par le conseiller, préparer la retraduction dans un projet fille, et assurer que tous les versets manquants et obsolètes sont traités.</string>
+        </item>
+      </Descriptions>
+    </Stage>
+    <Stage id="b270751c-03d8-463b-abbf-5c8e3c4a188b">
+      <BookStatus />
+      <TargetCompletionDateMap />
+      <Task id="fd6c2f9b-c34f-4762-bcd0-845ff03c1785">
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>150</EasiestBooksVPD>
+        <EasyBooksVPD>128</EasyBooksVPD>
+        <ModerateBooksVPD>105</ModerateBooksVPD>
+        <DifficultBooksVPD>90</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Preliminary evaluation of text</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Avaliação preliminar do texto</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Evaluación preliminar del texto</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Évaluation préliminaire du texte</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>The consultant receives the text in advance and makes preliminary evaluations. The consultant’s comments for the team are placed in the translation or back translation using project notes. The evaluation should focus on accuracy, clarity, naturalness, and acceptability of the translation. The consultant will also evaluate all supplementary materials and illustrations used. The team may review and implement suggestions made by the consultant prior to the direct interaction.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>O consultor recebe o texto com antecedência e faz avaliações preliminares. Os comentários do consultor para a equipe são colocados na tradução ou retrotradução usando notas de projeto. A avaliação deve se concentrar na exatidão, clareza, naturalidade e aceitabilidade da tradução. O consultor também avaliará todos os materiais e ilustrações suplementares utilizados. A equipe pode revisar e implementar sugestões feitas pelo consultor antes da interação direta.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>El consultor recibe el texto por adelantado y hace evaluaciones preliminares, colocadas en comentarios para el equipo en la traducción o retrotraducción. La evaluación debe centrarse en la precisión, claridad, naturalidad y aceptabilidad de la traducción, incluidos todos los materiales e ilustraciones suplementarios utilizados. El equipo puede revisar e implementar las sugerencias hechas por el consultor antes de la interacción directa.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Le conseiller reçoit le texte à l’avance et procède à des évaluations préliminaires. Les commentaires du conseiller à l’intention de l’équipe sont placés dans la traduction ou la retraduction à l’aide des notes de projet. Le conseiller évaluera également tous les matériels et illustrations supplémentaires. L’équipe peut examiner et mettre en œuvre les suggestions faites par le conseiller avant l’interaction directe.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsCompleteByChapter</Availability>
+        <PrerequisiteStageId>20974cee-9f40-43c4-a0ae-5e733238e134</PrerequisiteStageId>
+      </Task>
+      <Task id="25931f1d-cc55-46c9-a3e8-8f0bea379b90">
+        <EditingRequired proj="BEP" type="ScriptureText" />
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>150</EasiestBooksVPD>
+        <EasyBooksVPD>128</EasyBooksVPD>
+        <ModerateBooksVPD>105</ModerateBooksVPD>
+        <DifficultBooksVPD>90</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Consultant checking session</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Sessão de verificação de consultores</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Sesión de verificación con el consultor</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Séance de vérification avec le conseiller</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>The consultant interacts with the translation team in a physical or virtual session. He or she makes observations about the text and supplementary materials, and gives assistance and advice as requested. 
+
+This task involves editing, and a member should be assigned to make changes during the session.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>O consultor interage com a equipe de tradução em uma sessão física ou virtual. Ele ou ela faz observações sobre o texto e materiais suplementares, e dá assistência e aconselhamento conforme solicitado. 
+
+Esta tarefa envolve a edição, e um membro deve ser designado para fazer mudanças durante a sessão.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>El consultor interactúa con el equipo de traducción en una sesión física o virtual. Hace observaciones sobre el texto y los materiales complementarios, y presta asistencia y asesoramiento cuando se le solicita. 
+
+Esta tarea implica la edición, y se debe asignar a un miembro para que realice cambios durante la sesión.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Le conseiller interagit avec l’équipe de traduction lors d’une séance physique ou virtuelle. Il ou elle fait des observations sur le texte et les matériels supplémentaires, et apporte de l’aide et des conseils sur demande.
+
+Cette tâche implique la modification du projet et un membre de l’équipe doit être désigné pour apporter des modifications au cours de la séance.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsCompleteByChapter</Availability>
+        <PrerequisiteStageId>20974cee-9f40-43c4-a0ae-5e733238e134</PrerequisiteStageId>
+      </Task>
+      <Task id="9955d13b-4d77-4c77-81a3-a728bf11b77e">
+        <EditingRequired proj="MP6" type="ScriptureText" />
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>420</EasiestBooksVPD>
+        <EasyBooksVPD>360</EasyBooksVPD>
+        <ModerateBooksVPD>300</ModerateBooksVPD>
+        <DifficultBooksVPD>240</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Implement suggestions</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Implementar sugestões</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Implementar sugerencias</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Application des suggestions du conseiller</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>If the consultant gave action items during the checking session, these need to be completed and marked as resolved.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Se o consultor deu itens de ação durante a sessão de verificação, eles precisam ser completados e marcados como resolvidos.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Los cambios que no se pudieron realizar durante la sesión de verificación deben realizarse más tarde y todas las acciones deben resolverse.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Si le conseiller a donné des mesures de suivi au cours de la séance de vérification, celles-ci doivent être complétées et marquées comme résolues.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForChapter</Availability>
+      </Task>
+      <Names>
+        <item>
+          <string>en</string>
+          <string>Consultant Check</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>Verificação do Consultor</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>Comprobación del consultor</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Vérification du conseiller</string>
+        </item>
+      </Names>
+      <Descriptions>
+        <item>
+          <string>en</string>
+          <string>The consultant interacts with the team remotely to prepare for the checking session, and then plans a time when they can meet to review the text together.  At the end of the checking session, the team has some work to comply with the consultant's suggestions.  When the consultant is satisfied the improvements have been made, a report or statement is submitted to the team showing the text has been approved.</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>O consultor interage com a equipe remotamente para se preparar para a sessão de verificação e, em seguida, marque uma data em que eles podem se reunir para revisar o texto juntos.  No final da sessão de verificação, a equipe tem algum trabalho para cumprir as sugestões do consultor.  Quando o consultor está satisfeito que as melhorias foram feitas, um relatório ou declaração é enviado à equipe mostrando que o texto foi aprovado.</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>El consultor interactúa con el equipo de forma remota para prepararse para la sesión de verificación y, a continuación, planifica un momento en el que pueden reunirse para revisar el texto juntos.  Al final de la sesión de verificación, el equipo tiene algo de trabajo para cumplir con las sugerencias del consultor.  Una vez que el consultor está satisfecho con los cambios realizados, se presenta un informe o declaración al equipo que muestra que el texto ha sido aprobado.</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Le conseiller communique à distance avec l’équipe pour préparer la séance de vérification, puis planifie un moment où ils peuvent se rencontrer pour réviser le texte ensemble. A la fin de la séance de vérification, l’équipe a du travail à faire pour se conformer aux suggestions du conseiller. Si le conseiller est satisfait des améliorations apportées, un rapport est soumis à l’équipe indiquant que le texte a été approuvé.</string>
+        </item>
+      </Descriptions>
+    </Stage>
+    <Stage id="16385cc6-d555-4b29-b342-1f78a9853656">
+      <BookStatus />
+      <TargetCompletionDateMap />
+      <Task id="ab24ebef-f715-4a6e-b505-b5c9172ba6c9">
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>420</EasiestBooksVPD>
+        <EasyBooksVPD>360</EasyBooksVPD>
+        <ModerateBooksVPD>300</ModerateBooksVPD>
+        <DifficultBooksVPD>240</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Check and revise Biblical terms as requested by consultant</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Avaliar e revisar termos bíblicos</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Revisar vocablos bíblicos</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Reéxamen des suggéstions du conseiller</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Community leaders, church leaders, and other community members review how specific key terms are rendered as requested by consultant. The team discusses comments about key terms made at the community review and uses those changes they think are valid.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Líderes comunitários, líderes de igrejas e outros membros da comunidade discutem como os termos chave são renderizados. A equipe discute comentários sobre os termos chave feitos na revisão da comunidade e usa as mudanças que eles acham que são válidas.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Líderes de la comunidad, líderes de la iglesia y otros miembros de la comunidad discuten cómo se expresan los términos clave. El equipo discute los comentarios sobre los términos clave hechos en la revisión de la comunidad y utiliza los cambios que consideran válidos.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Des leadeurs religieux et civiles et d’autres membres de la communauté (le comité de révision) discutent les suggéstions proposées et les modifications apportées pendant la séance avec le conseiller. Il peut s'agir, par exemple, de décisions concernant les termes bibliques ou l'utilisation de certaines phrases.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsCompleteByChapter</Availability>
+        <PrerequisiteStageId>b270751c-03d8-463b-abbf-5c8e3c4a188b</PrerequisiteStageId>
+      </Task>
+      <Task id="ad1e60e2-0340-4832-b914-16fc9c76c76e">
+        <EditingRequired proj="SPP" type="ScriptureText" />
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>210</EasiestBooksVPD>
+        <EasyBooksVPD>180</EasyBooksVPD>
+        <ModerateBooksVPD>150</ModerateBooksVPD>
+        <DifficultBooksVPD>120</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Review for naturalness and revise</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Análise da naturalidade e revisão</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Revisión de la naturalidad</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Application des suggestions de la communauté</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>The community does a naturalness review of the audio or written text. The team discusses the suggestions from the naturalness review and makes any appropriate changes.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>A comunidade faz uma revisão de naturalidade do áudio ou do texto escrito. A equipe discute as sugestões da revisão de naturalidade e faz quaisquer mudanças apropriadas.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>La comunidad hace una revisión de naturalidad del audio o texto escrito. El equipo discute las sugerencias de la revisión de naturalidad y hace los cambios apropiados.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Si le réexamen par la communauté a indiqué la nécessité de modifier le texte, apportez ces modifications. Faites attention aux autres textes qui pourraient être affectés, et au caractère naturel des textes qui ont été modifiés.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsCompleteByChapter</Availability>
+        <PrerequisiteStageId>b270751c-03d8-463b-abbf-5c8e3c4a188b</PrerequisiteStageId>
+      </Task>
+      <Check id="3e252305-75e7-4b64-a850-2385559fb31d">
+        <Type>BasicCheck</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <BasicCheckType>Reference</BasicCheckType>
+        <PostponedBooks />
+      </Check>
+      <Names>
+        <item>
+          <string>en</string>
+          <string>Review by the Community</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>Revisão pela Comunidade</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>Revisión por parte de la Comunidad</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Réexamen par la communauté</string>
+        </item>
+      </Names>
+      <Descriptions>
+        <item>
+          <string>en</string>
+          <string>The goal of this stage is to have one or more community groups to review the text and make suggestions and recommendations.</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>O objetivo desta etapa é ter um ou mais grupos comunitários para revisar o texto e fazer sugestões e recomendações.</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>El objetivo de esta etapa es que uno o más grupos comunitarios revisen el texto y hagan sugerencias y recomendaciones.</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Le but de cette étape est de demander à un ou plusieurs groupes communautaires d’examiner les propositions et les modifications apportées lors de la vérification du conseiller.</string>
+        </item>
+      </Descriptions>
+    </Stage>
+    <Stage id="c66ede6b-1e7b-4d55-b5c3-f8aff60217d7">
+      <BookStatus />
+      <TargetCompletionDateMap />
+      <Task id="b3877769-af37-45c4-b225-24c988148bff">
+        <EditingRequired proj="SPP" type="ScriptureText" />
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>Manual</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>420</EasiestBooksVPD>
+        <EasyBooksVPD>360</EasyBooksVPD>
+        <ModerateBooksVPD>300</ModerateBooksVPD>
+        <DifficultBooksVPD>240</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Check and link glossary entries</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Verificar e ligar entradas do glossário</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Comprobar y enlazar las entradas del glosario</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Vérification et liaison des entrées du glossaire</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>For users to discover your glossary entries, the words must be marked for a print publication, or hyperlinked for digital publication.  Use the tools in Paratext to add the necessary markup, which will create hyperlinked entries or other highlighting in print to identify glossary words.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Para que os usuários descubram seus itens do glossário, as palavras devem ser marcadas para uma publicação impressa ou hiperligadas para publicação digital.  Use as ferramentas em Paratext para adicionar a marcação necessária, que irá criar entradas hiperligadas ou outro destaque na impressão para identificar as palavras do glossário.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Para que los usuarios descubran las entradas de su glosario, las palabras deben estar marcadas para una publicación impresa o hipervinculadas para una publicación digital.  Utilice las herramientas de Paratext para añadir marcadores que crearán entradas hipervinculadas u otros resaltes en la impresión para identificar las palabras del glosario.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Pour que les utilisateurs puissent découvrir vos entrées de glossaire, les mots doivent être marqués pour une publication imprimée ou des liens hypertexte doivent être créés pour une publication numérique. Utiliser les outils de Paratext pour ajouter le marquage nécessaire, qui créera des entrées hyperliées ou d’autres surlignages imprimés pour identifier les mots du glossaire.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsComplete</Availability>
+        <PrerequisiteStageId>16385cc6-d555-4b29-b342-1f78a9853656</PrerequisiteStageId>
+      </Task>
+      <Task id="c4108ddd-02c1-491a-9df6-86c76b8850ed">
+        <EditingRequired proj="TT1" type="ScriptureText" />
+        <Type>ManualByChapter</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>1000</EasiestBooksVPD>
+        <EasyBooksVPD>1000</EasyBooksVPD>
+        <ModerateBooksVPD>1000</ModerateBooksVPD>
+        <DifficultBooksVPD>1000</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>fr</string>
+            <string>Relecture finale</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>fr</string>
+            <string>L’équipe entreprend une lecture finale de la publication entièr, de préférence avec des leadeurs et des représentants de la communauté. Avec leur approbation, le texte est envoyé à la publication.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForChapter</Availability>
+      </Task>
+      <Task id="a9a461dc-23c0-460c-a33b-8a5d49ea88e9">
+        <Type>Manual</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>150</EasiestBooksVPD>
+        <EasyBooksVPD>150</EasyBooksVPD>
+        <ModerateBooksVPD>150</ModerateBooksVPD>
+        <DifficultBooksVPD>150</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Publish</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Publicar</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Publicar</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Publication</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Publish the translation in the form and media you have chosen: print, audio, digital, etc. 
+
+You are encouraged to rename this task based on your publishing strategy and add other tasks as needed.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Publique na forma e mídia que você escolheu: impressa, áudio, digital, etc. 
+
+Você é encorajado a renomear esta tarefa com base em sua estratégia de publicação e adicionar outras tarefas conforme necessário.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Publicar la traducción en la forma y medio que usted haya elegido: impreso, audio, digital, etc. 
+
+Se le anima a renombrar esta tarea en función de su estrategia de publicación y a añadir otras tareas según sea necesario.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Publier la traduction sous la forme et sur le support de votre choix : imprimé, audio, numérique, etc.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForBook</Availability>
+      </Task>
+      <Task id="46f0f040-73ec-4789-a1e8-1747c131dcaf">
+        <Field Name="DependsOnPreviousStage" breaksCompatibility="false">True</Field>
+        <Type>ManualByProject</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>1000</EasiestBooksVPD>
+        <EasyBooksVPD>1000</EasyBooksVPD>
+        <ModerateBooksVPD>1000</ModerateBooksVPD>
+        <DifficultBooksVPD>1000</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Enter Publication Information</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Introduza a informação de publicação</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Introduzca la información de publicación</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Modification d’information de publication dans le registre</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Open Project Properties for your project. Click on manage the Project Registration. This will take you to the entry for this project on the web. Go to the Publishing tab on the registration site and complete the information above the horizontal line.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Abra as Propriedades do Projeto para o seu projeto. Clique em gerenciar o Registro de Projeto. Isso o levará à entrada para este projeto na web. Vá até a aba Publicação no site de registro e preencha as informações acima da linha horizontal.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Abra Propiedades del proyecto para su proyecto. Haga clic en Administrar el registro del proyecto. Esto le llevará a la entrada de este proyecto en la web. Vaya a la pestaña Publicación y complete la información arriba de la línea horizontal.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Ouvrir Propriétés de projet pour votre projet. Cliquer sur Gérer l’inscription du projet. Ceci vous amènera à l’entrée de ce projet sur le web. Aller à l’onglet Publishing du site d’inscription et compléter l’information au-dessus de la ligne horizontale.</string>
+          </item>
+        </Descriptions>
+        <Availability>WhenStageIsComplete</Availability>
+        <PrerequisiteStageId>16385cc6-d555-4b29-b342-1f78a9853656</PrerequisiteStageId>
+      </Task>
+      <Task id="415f8694-6422-49ba-8c35-4935535ba98d">
+        <Type>Manual</Type>
+        <AutoGrantEditRights>false</AutoGrantEditRights>
+        <EasiestBooksVPD>1000</EasiestBooksVPD>
+        <EasyBooksVPD>1000</EasyBooksVPD>
+        <ModerateBooksVPD>1000</ModerateBooksVPD>
+        <DifficultBooksVPD>1000</DifficultBooksVPD>
+        <Names>
+          <item>
+            <string>en</string>
+            <string>Submit to the DBL</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Submeter à DBL</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Enviar a la DBL</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Soumission à la DBL</string>
+          </item>
+        </Names>
+        <Descriptions>
+          <item>
+            <string>en</string>
+            <string>Submit the text to the DBL.  For Wycliffe Global Alliance partners, the instructions are found at bit.ly/DBL-Submit 
+
+&lt;a href="https://bit.ly/DBL-Submit"&gt;bit.ly/DBL-Submit&lt;/a&gt; 
+
+This page explains how to prepare the text and has a link to a form to fill for the submission.</string>
+          </item>
+          <item>
+            <string>pt</string>
+            <string>Submeter o texto à DBL.  Para parceiros Wycliffe Global Alliance, as instruções são encontradas em bit.ly/DBL-Submit 
+
+&lt;a href="https://bit.ly/DBL-Submit"&gt;bit.ly/DBL-Submit&lt;/a&gt; 
+
+Esta página explica como preparar o texto e tem um link para um formulário a preencher para a submissão.</string>
+          </item>
+          <item>
+            <string>es</string>
+            <string>Envíe el texto a la DBL.  Para los socios de Wycliffe Global Alliance, las instrucciones se encuentran en bit.ly/DBL-Submit 
+
+&lt;a href="https://bit.ly/DBL-Submit"&gt;bit.ly/DBL-Submit&lt;/a&gt; 
+
+Esta página explica cómo preparar el texto y tiene un enlace a un formulario para rellenar para la presentación.</string>
+          </item>
+          <item>
+            <string>fr</string>
+            <string>Soumettre le texte à la DBL. Pour les partenaires de Wycliffe Global Alliance, les instructions se trouvent sur &lt;a href==="https://bit.ly/DBL-Submit"&gt;bit.ly/DBL-Submit&lt;/a&gt;
+
+Cette page explique comment préparer le texte et contient un lien vers un formulaire à remplir pour la soumission.</string>
+          </item>
+        </Descriptions>
+        <Availability>AfterPreviousTaskForBook</Availability>
+      </Task>
+      <Names>
+        <item>
+          <string>en</string>
+          <string>Finalizing for Publication</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>Finalização para publicação</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>Finalización para la publicación</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Finalisation pour la publication</string>
+        </item>
+      </Names>
+      <Descriptions>
+        <item>
+          <string>en</string>
+          <string>The text is finalized for publication and uploaded to the DBL. If a typeset publication is in view, the typesetting requirements will be furnished by the typesetter.</string>
+        </item>
+        <item>
+          <string>pt</string>
+          <string>O texto é finalizado para publicação e enviado para a DBL. Se uma publicação de composição for prevista, os requisitos de composição serão fornecidos pelo compositor.</string>
+        </item>
+        <item>
+          <string>es</string>
+          <string>El texto se finaliza para su publicación y se carga en el DBL. Si se planifica una publicación de composición tipográfica, los requisitos de composición serán proporcionados por la persona encargada de la composición tipográfica.</string>
+        </item>
+        <item>
+          <string>fr</string>
+          <string>Le texte est finalisé pour publication et reçoit son approbation finale. Si une publication imprimée est en vue, les exigences en matière de composition seront fournies par le compositeur. Le texte est téléchargé dans le DBL.</string>
+        </item>
+      </Descriptions>
+    </Stage>
+  </Stages>
+  <BasePlanType>None</BasePlanType>
+  <PlannedBooks>
+    <Books>100000000000000000000000000000010000000111111111111111111111111111000000000000000000000000000000000000000000000000000000000</Books>
+  </PlannedBooks>
+  <EasiestBooks>
+    <Books>000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Books>
+  </EasiestBooks>
+  <EasyBooks>
+    <Books>100000000000000000000000000000000000000111010000000001111010001111000000000000000000000000000000000000000000000000000000000</Books>
+  </EasyBooks>
+  <ModerateBooks>
+    <Books>000000000000000000000000000000000000000000100110000110000001110000000000000000000000000000000000000000000000000000000000000</Books>
+  </ModerateBooks>
+  <DifficultBooks>
+    <Books>000000000000000000000000000000000000000000001001111000000100000000000000000000000000000000000000000000000000000000000000000</Books>
+  </DifficultBooks>
+</ProgressInfo>
